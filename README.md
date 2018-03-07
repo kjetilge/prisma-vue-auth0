@@ -1,13 +1,13 @@
 # vue-auth0-graphql
 
-###Authentication and authorization with vue, auth0 and graphql
+### Authentication and authorization with vue, auth0 and graphql
 
-###credits:
+### credits:
 https://www.storyblok.com/tp/how-to-auth0-vuejs-authentication
 https://github.com/LawJolla/prisma-auth0-example
 
 
-##Quickstart
+## Quickstart
 ```
 git clone http...
 cd vue-auth0-graphql/client
