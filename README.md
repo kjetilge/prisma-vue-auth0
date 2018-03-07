@@ -3,7 +3,7 @@
 ### Authentication and authorization with vue, auth0 and graphql
 
 ### credits:
-https://www.storyblok.com/tp/how-to-auth0-vuejs-authentication
+https://www.storyblok.com/tp/how-to-auth0-vuejs-authentication\
 https://github.com/LawJolla/prisma-auth0-example
 
 
