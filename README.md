@@ -4,7 +4,7 @@
 
 ### credits:
 https://www.storyblok.com/tp/how-to-auth0-vuejs-authentication  
-https://github.com/LawJolla/prisma-auth0-example
+https://github.com/LawJolla/prisma-auth0-example (go here for an nice auth0 setup)
 
 
 ## Quickstart
